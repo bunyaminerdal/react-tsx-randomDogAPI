@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# simple random dogAPI React app with Typescript
 
 [Random Dog API](https://dog.ceo/)
 
