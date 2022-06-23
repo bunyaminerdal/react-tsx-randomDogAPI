@@ -2,7 +2,7 @@
 
 [Random Dog API](https://dog.ceo/)
 
-#used libraries
-axios
-bootstrap
-react-redux
+# used libraries
+### axios
+### bootstrap
+### react-redux
